@@ -1,6 +1,6 @@
 # Contact-Form
-<p>creating contact form in Laravel</p><br>
-main file for code<br>
+creating contact form in Laravel<br>
+main file for code:<br>
 a) web.php directory-> "routes/web.php"<br>
 b) SendEmailController directory-> "app/http/controller/SendEmailController"<br>
 c) SendMail.php directory-> "app/Mail/SendMail.php"<br>
