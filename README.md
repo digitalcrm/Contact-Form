@@ -1,8 +1,12 @@
-# Contact-Form
-creating contact form in Laravel<br>
-main file for code:<br>
-a) web.php directory-> "routes/web.php"<br>
-b) SendEmailController directory-> "app/http/controller/SendEmailController"<br>
-c) SendMail.php directory-> "app/Mail/SendMail.php"<br>
-d) Two file under view folder -> "Resources/view/dynamic_email_template.blade.php" and "Resources/view/send_email.blade.php"<br>
-e) check also ".env" file and edit Mail_Driver.<br>
+---
+
+## How to use
+
+- Clone the repository with __git clone__
+- Copy __.env.example__ file to __.env__ 
+- Setup the __database__
+- Run __composer install__
+- Run __php artisan key:generate__
+- That's it: launch the main URL
+
+---
