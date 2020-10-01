@@ -1,5 +1,4 @@
 ---
-
 ## How to use
 
 - Clone the repository with __git clone__
@@ -8,5 +7,4 @@
 - Run __composer install__
 - Run __php artisan key:generate__
 - That's it: launch the main URL
-
 ---
